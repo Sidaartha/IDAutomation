@@ -9,13 +9,9 @@
 var doc = app.activeDocument;
 
 // Getting name layer
-// var NameGroup = doc.layerSets.getByName('NAME');
-// var NameLayer = NameGroup.layers.getByName('name');
 var NameLayer = doc.layers.getByName('name');
 
 // Getting por layer
-// var PORGroup = doc.layerSets.getByName('POR');
-// var PORLayer = PORGroup.layers.getByName('por');
 var PORLayer = doc.layers.getByName('por');
 
 // Function to save as "jpg" file in "/img/" directory
