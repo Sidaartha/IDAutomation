@@ -23,6 +23,9 @@ Create a CSV file with two columns.
 Create two layer, Name them as follows:
 * 1st layer named "name".
 * 2nd layer named "por".
+
+  ![image](/README/1.png)
+
 ```
 Note : Make sure that this two layers are not enclosed in any groups.
 ```
@@ -43,22 +46,21 @@ Process done by the script.
 ## Visual Guid
 
 * Open Template.psd follow the path : File > Scripts > Browse...
-  ![image](/README/1.png)
-  
-* Load the Script (.jsx file)
   ![image](/README/2.png)
   
-* User input : CSV file with contains all the Names and Posts.
+* Load the Script (.jsx file)
   ![image](/README/3.png)
   
-* Finish alert!
+* User input : CSV file with contains all the Names and Posts.
   ![image](/README/4.png)
+  
+* Finish alert!
+  ![image](/README/5.png)
   
   
 ## Video Tutorial 
 
 * Layer structure, Ignore the layer stucture shown in the video.
-  ![image](/README/5.png)
 
   [![Watch the video](/README/Thumbnail.jpg)](https://youtu.be/yl-frsRGyPM)
 
