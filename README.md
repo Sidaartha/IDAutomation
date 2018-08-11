@@ -60,7 +60,7 @@ Process done by the script.
   
 ## Video Tutorial 
 
-* Layer structure, Ignore the layer stucture shown in the video.
+* Ignore the layer stucture shown in the video, "Automate.jsx" has been modified to work with new layer structure.
 
   [![Watch the video](/README/Thumbnail.jpg)](https://youtu.be/yl-frsRGyPM)
 
